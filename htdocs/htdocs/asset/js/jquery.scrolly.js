@@ -1,0 +1,7 @@
+/*
+ *  Project: Scrolly : parallax is easy as a matter of fact !
+ *  Description: Based on jQuery boilerplate
+ *  Author: Victor C. / Octave & Octave web agency
+ *  Licence: MIT
+ */
+(function(e,t,n,r){function u(t,n){this.element=t;this.$element=e(this.element);this.options=e.extend({},s,n);this._defaults=s;this._name=i;this.init()}var i="scrolly",s={bgParallax:false},o=false;u.prototype.init=function(){var t=this;this.startPosition=this.$element.position().top;this.offsetTop=this.$element.offset().top;this.height=this.$element.outerHeight(true);this.velocity=this.$element.attr("data-velocity");this.bgStart=parseInt(this.$element.attr("data-fit"),10);e(n).scroll(function(){t.didScroll=true});setInterval(function(){if(t.didScroll){t.didScroll=false;t.scrolly()}},10)};u.prototype.scrolly=function(){var n=e(t).scrollTop(),r=e(t).height(),i=this.startPosition;if(this.offsetTop>=n+r){this.$element.addClass("scrolly-invisible")}else{if(this.$element.hasClass("scrolly-invisible")){i=this.startPosition+(n+(r-this.offsetTop))*this.velocity}else{i=this.startPosition+n*this.velocity}}if(this.bgStart){i=i+this.bgStart}if(this.options.bgParallax===true){this.$element.css({backgroundPosition:"50% "+i+"px"})}else{this.$element.css({top:i})}};e.fn[i]=function(t){return this.each(function(){if(!e.data(this,"plugin_"+i)){e.data(this,"plugin_"+i,new u(this,t))}})}})(jQuery,window,document)

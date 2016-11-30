@@ -1,0 +1,193 @@
+/*Template Name:BucketAdmin Dashboard build with Bootstrap v3.0.3Template Version:1.0Author:ThemeBucket*/
+/* Import fonts */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);
+@import url(bucket-ico-fonts.css);
+
+body {
+    color:#767676;
+    background:#f1f2f7;
+    font-family:'Open Sans',sans-serif;
+    padding:0px !important;
+    margin:0px !important;
+    font-size:13px;
+    text-rendering:optimizeLegibility;
+}
+
+
+/*general page*/
+
+.panel-heading .nav {
+    border:medium none;
+    font-size:13px;
+    margin:-15px -15px -30px;
+}
+.tab-bg-dark-navy-blue ul>li>a {
+    display:block;
+    padding:20px 15px !important;
+}
+.tab-bg-dark-navy-blue {
+    background:#e0e1e7 !important;
+    border-radius:5px 5px 0 0;
+    -webkit-border-radius:5px 5px 0 0;
+    border-bottom:none;
+}
+
+.tab-bg-dark-navy-blue li a:hover, .tab-bg-dark-navy-blue li.active a {
+    border-radius: 0 !important;
+    background: #fff !important;
+    color: #53bee6 !important;
+}
+.panel-heading .nav>li>a,.panel-heading .nav>li.active>a,.panel-heading .nav>li.active>a:hover,.panel-heading .nav>li.active>a:focus {
+    border-width:0;
+    border-radius:0;
+}
+.panel-heading .nav>li>a {
+    color:#898989;
+}
+.panel-heading .nav>li.active>a,.panel-heading .nav>li>a:hover {
+    color:#1fb5ad;
+    background:#fff;
+}
+.panel-heading .nav>li:first-child.active>a,.panel-heading .nav>li:first-child>a:hover {
+    border-radius:4px 0 0 0 !important;
+    -webkit-border-radius:4px 0 0 0 !important;
+}
+.tab-right {
+    height:58px;
+}
+.panel-heading.tab-right .nav>li:first-child.active>a,.tab-right.panel-heading .nav>li:first-child>a:hover {
+    border-radius:0;
+    -webkit-border-radius:0;
+}
+.panel-heading.tab-right .nav>li:last-child.active>a,.tab-right.panel-heading .nav>li:last-child>a:hover {
+    border-radius:0 4px 0 0;
+    -webkit-border-radius:0 4px 0 0;
+}
+.panel-heading.tab-right .nav-tabs>li>a {
+    margin-left:1px;
+    margin-right:0px;
+}
+.m-bot20 {
+    margin-bottom:20px;
+}
+.m-bot-none {
+    margin-bottom:0;
+}
+.wht-color {
+    color:#fff;
+}
+.close-sm {
+    font-size: 14px;
+}
+
+/*ck editor*/
+.cke_top,.cke_bottom {
+    background:#F5F5F5 !important;
+    background:-moz-linear-gradient(center top,#F5F5F5,#F5F5F5) repeat scroll 0 0 #F5F5F5 !important;
+    background:-webkit-linear-gradient(center top,#F5F5F5,#F5F5F5) repeat scroll 0 0 #F5F5F5 !important;
+    background:-o-linear-gradient(center top,#F5F5F5,#F5F5F5) repeat scroll 0 0 #F5F5F5 !important;
+    box-shadow:none;
+    padding:6px 8px 2px;
+}
+.cke_top {
+    border-bottom:1px solid #cccccc !important;
+}
+.cke_chrome {
+    display:block;
+    padding: 0;
+}
+
+/*ckEditor*/
+#editor-container {
+    width:100%;
+    margin:10px auto 0;
+}
+#header-editor {
+    overflow:hidden;
+    padding:0 0 30px;
+    border-bottom:1px solid #eaeaea;
+    position:relative;
+}
+#headerLeft,#headerRight {
+    width:100%;
+    overflow:hidden;
+}
+#headerLeft {
+    float:left;
+    padding:10px 1px 1px;
+}
+#headerLeft h2,#headerLeft h3 {
+    margin:0;
+    overflow:hidden;
+    font-weight:normal;
+    font-family:'Open Sans',sans-serif;
+}
+#headerLeft h2 {
+    font-size:2.6em;
+    line-height:1.1em;
+    text-transform:capitalize;
+    color:#32323a;
+    margin-bottom:30px;
+}
+#headerLeft h3 {
+    font-size:1.5em;
+    line-height:1.1em;
+    margin:.2em 0 0;
+    color:#32323a;
+}
+#headerRight {
+    float:right;
+    padding:1px;
+}
+#headerRight p {
+    line-height:1.8em;
+    text-align:justify;
+    margin:0;
+}
+#headerRight p+p {
+    margin-top:20px;
+}
+#headerRight>div {
+    padding:20px 0;
+    margin:0;
+    font-size:1.1em;
+    color:#757575;
+}
+#columns {
+    color:#757575;
+    overflow:hidden;
+    padding:20px 0;
+}
+#columns h3 {
+    color:#32323a;
+}
+#columns>div {
+    float:left;
+    width:33.3%;
+}
+#columns #column1>div {
+    margin-left:1px;
+}
+#columns #column3>div {
+    margin-right:1px;
+}
+#columns>div>div {
+    margin:0px 10px;
+    padding:10px 0;
+}
+#columns blockquote {
+    margin-left:15px;
+}
+#taglist {
+    display:inline-block;
+    margin-left:20px;
+    font-weight:bold;
+    margin:0 0 0 20px;
+}
+.cke_editable.cke_editable_inline.cke_focus {
+    background:#fcfcfc;
+    border:1px solid #eaeaea;
+    cursor:text;
+    outline: medium none;
+}
