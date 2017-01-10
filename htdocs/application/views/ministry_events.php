@@ -28,30 +28,57 @@
 						<div id="content">
 							<article class="blog-post big">
 								<div class="img-area">
-									<a href="#"><img src="<?=base_url();?>asset/images/pix_event.png" width="832" height="250" class="img-responsive" alt="ministry event image" />
+									<a href="#"><img src="<?=base_url();?>asset/images/flourish.jpg" width="832" height="250" class="img-responsive" alt="ministry event image" />
 									</a>
 								</div>
 									<div class="col-md-12">
-										<time class="date" datetime="2016-02-07"><span class="fa fa-calendar-o"></span>FEBRUARY 7, 2016</time>
-										<h2><a>Pastor Chris’ Teaching at the Night of Bliss Ghana 2016</a></h2>
+										<time class="date" datetime="2016-12-31"><span class="fa fa-calendar-o"></span>DECEMBER 31, 2016</time>
+										<h2><a>Pastor Chris’ New Year's Eve Service Ministration</a></h2>
 									</header>
-									<p>The extraordinary teaching ministry of the man of God, Rev. (Dr.) Chris Oyakhilome, was at the LIVE disposal of the nation of Ghana at the Night of Bliss concluded just a few hours ago.<br/><br/>
-On the subject of the Christian’s call to fellowship with God, Pastor Chris elucidates the true purpose of Christ. “Salvation from sin was a means to an end; the Savior didn’t come so He would be a Savior. The end purpose was fellowship…oneness with God,” the man of God said.
-
+									<p>
+									Inciting the crescendo of the phenomenal New Year’s Eve Service, the man of God, Pastor Chris, led the attentive congregation of millions all around the world in the exhaustive reading of the scriptures in Psalm 92 vs. 1-15.<br/><br/>
+“2017 is the year of Flourishing,” Pastor Chris profoundly proclaimed, setting off everyone from the edges of their seats unto a glorious atmosphere of out-bursting tongues, ceaseless shouts of victory, dancing and other extravagant displays of overwhelming joy, which filled the LoveWorld Convocation Arena and other viewing centers around the world. It was the word everyone had been waiting for!
 </br><br/>
-As everyone in the various auditoria listened with rapt attention, there was a visible transformation in their countenances as the glory increased on their lives.
+The message of the year is more than a topic. It is an insight into what the Lord will do for us, in us and through us - it is God's direction for us. Times and seasons don't apply in heaven but in the earth.
 
 <br/><br/>
-Pastor Chris says, “We are not in the covenant; we are children of the covenant!”
+<b>Three Key Things To Note:</b>
 
 </br><br/>
-Addressing tens of thousands in the nation of Ghana, the man of God, Rev. (Dr.) Chris Oyakhilome, clarified the difference between being in a covenant with God and being children of the covenant.
+<b>1. My Year of Luxuriant Growth.</b>
+Notice the verse above it says, they shall flourish like the palm tree. The palm tree flourishes irrespective of seasons. Its leaves are evergreen. And some grow very tall. One of the features of flourishing is spreading. Which means the spreading continues 
 
 </br><br/>
-The man of God explained that the believer is an heir of the covenant, which entitles him or her to certain blessings, for which they need not pray. “Prayer is not for getting things from God…it is our wonderful, highly exalted communication with our Heavenly Father, in this glorious fellowship,” he said.
+<b>2. My Year of Significant Attainment.</b>
+Attainment of higher heights. God wants to do marvelous things through us. Not just attainment but significant attainment (news making attainment).
 </br><br/>
-More enthralling teachings to come from the Night of Bliss Ghana 2016...
-                                    </p>
+<b>3. My Year of Persistent Productivity.</b>
+The weather, economy, country and physical circumstances do not count. "So mightily grew the word of God and prevailed."
+
+                                   </p>
+         <p>
+         	<b>What does God want you to do?</b>
+         	</br><br/>
+<b>1. Speak in tongues like never before. </b>
+This is the refreshing by which you cause the weary to rest.
+</br><br/>
+1 Corinthians 14:4 (AMP)
+When you speak in tongues, your spirit becomes sensitive to spiritual realities.
+</br><br/>
+Jude 1:20 (AMP)
+Your most holy faith means your most sanctified faith (the highest faith you ever expressed - faith that had no doubt - your purest faith). Build on that faith by praying in the Holy Ghost. Speaking in tongues therefore purifies your faith.
+</br><br/>
+Why was Paul so successful? 1 Corinthians 14:18 "I thank my God, I speak with tongues more than ye all:"  Speaking in tongues is important for the Christian to be very successful.
+
+</br><br/>
+<b>1. Speak in tongues like never before. </b>
+</br><br/>
+Hebrews 11:1-4 "...Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear..."
+</br><br/>
+The word of God talked about in the scripture above is talking about the Rhema of God and not the logos of God (the logos of God made all things). The Rhema of God is talking about how things work around you. This is the revelation received from God spoken through our mouth.
+</br><br/>
+How 2017 will be your year of flourishing is in your mouth. The word has been spoken and as such the rest of 2017 must comply.
+         </p>
 									
 								</div>
 							</article>

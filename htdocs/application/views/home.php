@@ -103,34 +103,47 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
+			<script type="text/css">
+				#tap{
+				 position: relative;
+				 height: 100px;
+				}
+			</script>
 
 				<div class="row">
 					<section class="col-xs-12 col-sm-6">
 						<!-- banner -->
 						<div class="banner" style="padding:3% 0px 0px 5% !important;">
 							<div class="bg-stretch">
-								<img src="<?=base_url()."/asset";?>/images/img23pcnob.jpg">
+								<img src="<?=base_url()."/asset";?>/images/Year11.jpg">
 							</div>
-
-						<div style="width:65% !important; float:right !important;">
+						
+						<div style="width:65% !important; float:left !important;">
 							 <strong class="h4">MINISTRY EVENT REPORT</strong>
-							<h2><time datetime="2016-02-06">PASTOR CHRIS' TEACHING AT THE NIGHT OF BLISS GHANA 2016</h2>
-                            <p>The extraordinary teaching ministry of the man of God, Rev. (Dr.) Chris Oyakhilome, was at the LIVE disposal of the nation of Ghana at the Night of Bliss concluded just a few days ago.</p>
+							 
+							<h2><time datetime="2016-12-31">New Year's Eve Service Ministration</h2>
+							
+                            <p>Inciting the crescendo of the phenomenal New Year’s Eve Service, the man of God, Pastor Chris, led the attentive congregation of millions all around the world in the exhaustive reading of the scriptures in Psalm 92 vs. 1-15.</p>
                             <a href="/home/ministry_events" class="btn btn-default">Read Report</a>
+					
 						</div>
 					</section>
 
 					<section class="col-xs-12 col-sm-6">
 						<!-- team -->
 						<div class="team">
-							<img src="<?=base_url()."/asset";?>/images/img24.png" alt="image description" class="alignright hidden-xs">
+							<img src="<?=base_url()."/asset";?>/images/2017_the_year_of_flourishing.png" alt="image description" class="alignright hidden-xs">
 							<div class="text">
-								<h3><a href="#">Sound Code And The Spirit</a></h3>
-								<strong class="designation">MESSAGE OF THE WEEK</strong>
-								<p>You will discover the principle of sound code and how to use it to create things that have never existed before.</p>
+								<h3><a href="#">The Year of Flourishing Pastor Chris</a></h3>
+								<strong class="designation">MESSAGE OF THE YEAR</strong>
+								<p>God's plans for every season is revealed through His given Word. Every December 31st Night, millions gather from all around the world with high expectations.<br/></br>
+								The year is characterised by 3 things, Luxuriant Growth, Significant Attainments and Persistent Productivity. Learn more and relive the inspiring moments of that service as you enjoy watching this video.
+								</p>
 								<!-- top social networks -->
 								<div class="button">
-								<a href="http://www.christembassyonlinestore.org" target="_blank" class="btn btn-default">Order Now!</a></div>
+									<a href="https://pcdl.co/media_albums/5872031773312e14a25e1500" target="_blank" class="btn btn-default">Order Now!
+								</a>
+								</div>
 							</div>
 						</div>
 					</section>

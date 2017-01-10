@@ -292,7 +292,7 @@
 	<div class="time-container">
 		<div class="auto-due">
 			<?php
-			$next = date("Y-m-d H:i:s", strtotime("next sunday 9:45 am"));
+			$next = date("Y-m-d H:i:s", strtotime("next wednesday 6:00 pm"));
 			if(date("D")=="Sun"&&(int)date("H")<14){
 				$next = date("Y-m-d H:i:s", strtotime("today 9:45 am"));
 			}

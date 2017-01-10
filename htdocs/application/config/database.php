@@ -65,5 +65,24 @@ $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
 
+ 
+$capsule = new Capsule;
+ 
+$capsule->addConnection(array(
+    'driver'    => 'mysql',
+    'host'      => $db['default']['localhost'],
+    'database'  => $db['default']['db_vchurch'],
+    'username'  => $db['default']['usr_loveworldnet'],
+   'password'  => $db['default']['lvnet92'],
+   'charset'   => 'utf8',
+   'collation' => 'utf8_unicode_ci',
+   'prefix'    => $db['default']['dbprefix'],
+));
+
+$capsule->setAsGlobal();
+$capsule->bootEloquent();
+
+
+
 /* End of file database.php */
 /* Location: ./application/config/database.php */

@@ -11,7 +11,7 @@
     <div class="item">
         <div class="img-area">
             <div class="img-holder">
-                <a href=""><img src="http://d1z5hscmkopczy.cloudfront.net/asset/images/Faith Walk1.jpg"></a>
+                <a href=""><img src="http://d1z5hscmkopczy.cloudfront.net/asset/images/New Year Flourish.jpg"></a>
             </div>
         </div>
     </div>
@@ -27,7 +27,15 @@
     <div class="item">
         <div class="img-area">
             <div class="img-holder">
-                <a href=""><img src="http://d1z5hscmkopczy.cloudfront.net/asset/images/spiritual.jpg"></a>
+                <a href=""><img src="http://d1z5hscmkopczy.cloudfront.net/asset/images/Faith Walk1.jpg"></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="img-area">
+            <div class="img-holder">
+                <a href=""><img src="http://d1z5hscmkopczy.cloudfront.net/asset/images/spiritual1.jpg"></a>
             </div>
         </div>
     </div>

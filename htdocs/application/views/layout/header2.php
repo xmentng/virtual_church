@@ -111,32 +111,38 @@
 
                            </div>
                        </div>-->
-                       <div id="flip2"><a id="btn_2" style="background-image:none; border:none !important; text-align:justify !important; font-weight:bold; color:#FF0;" href="#" class="strock small-btn">Today's Rhapsody</a>
-                           <div id="panel2"><strong>Three Cardinal Virtues</strong>
-                               <p>Friday, December 2nd. Pastor Chris</p>
-                               <p>And now abide these three, faith, hope, love; but the greatest is love(1 Corinthians 13:13 WESNT).</p>
-                                <p>When Jesus walked the earth, there was something unique and different about His message; it was characterised by these three cardinal virtues: faith, hope, and love.</p>
+                  <div id="flip2"><a id="btn_2" style="background-image:none; border:none !important; text-align:justify !important; font-weight:bold; color:#FF0;" href="#" class="strock small-btn">Today's Rhapsody</a>
+                  <div id="panel2">
+                  
+                    <strong> Think The Word-way </strong>
+                              <p>Tuesday, January 10th. Pastor Chris</p>
+                              
+                              <p> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God (Romans 12:2).
+                              </p>
+                              
+                              <p> As a Christian, it’s important how you think and what you think about. You’re not of this world; therefore, you shouldn’t think like an ordinary person. Don’t say, “I’m American or I’m Australian, as a result, there’s a way I think.” No! When you’re born again, you cease to be of your earthly nativity, because your spirit is recreated. You should therefore only think the Word-way. God’s Word must form the basis for the kind of thoughts you process and allow.
+                              </p>
+                              
+                              <p> Now that you’re in Christ, you have a new culture: the Christ-culture. Until this becomes a reality in your spirit, you’ll live like an ordinary person and not experience the sublime blessings of the life in Christ. The Bible says, “Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new” (2 Corinthians 5:17). You’re of a new lineage and heritage. Refuse to be described by any earthly culture or affiliation.
+                              </p>
+                              
+                              <p> If you must be identified as a Zulu, Afrikaans, American, British, German, French, Nigerian, etc., let it be because you want to win those of such descent to Christ. That’s how the Apostle Paul puts it. He said, “And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law” (1 Corinthians 9:20). 
+                              </p>
+                              
+                              <p> Our opening verse, in the New Living Translation says, “Don’t copy the behavior and customs of this world, but let God transform you into a new person by changing the way you think….” As you meditate on the Word, your mind is programmed to think accordingly. You’ll begin to talk differently, and act in line with your confessions of faith. The Word of God is the only material that can energize you for success, position you for greatness, and sustain you in the transcendent life. 
+                              </p>
 
-                               <p>When he spoke, faith came alive in the hearers. He introduced the Father to them and unveiled the Father’s will for their lives. He left them know what God had done for them and how to walk in their divine inheritance.</p>
-                                <p>Jesus also gave the people hope through his message; He made the future real and gave them a reason  to believe in the future. His message also expressed and communicated the love of God.Not only did He speak words of blessings to the people, He also touched them and related to them with love. He helped them know that the Father loved them because of the way He (Jesus) loved them. He manifested “Liquid love” —ever-flowing love. You felt it when you were in His presence. Even those He reprimanded felt and experienced His love. He was love in motion. </p>
+                              <p> PRAYER</p> 
+                              <p> Dear Father, thank you for the education of my spirit, through your Word. As I study and meditate on the Word, my mind is renewed in knowledge and spiritual understanding. Therefore, through my knowledge of the Word, I allow only excellent things into my world, in Jesus’ Name. Amen.
+                              </p>
 
-                               <p>That was what attracted even the little children to Him; they ran to Him whenever they saw Him. The crowd would’t stop thronging Him; the Bible says, “…And the common people heard Him gladly” (Mark 12:37). People from everywhere came to Jesus to hear Him, and be with Him, because in His words, they heard and saw love. In His presence, they were comforted, strengthened, filled with hope, and their faith came alive.</p>
+                              <p>FURTHER STUDY</p>
+                              <p> || Romans 12:2 AMP; || </p>
+                              <p> || Philippians 4:8; || </p>
 
-                               <p>As a Christian or minister of the Gospel, if you desire the kind of results Jesus had, then these three  virtues should be an awesome attraction in your life: faith, hope and love. They must be evidently expressed in your actions, words, character, and behaviour. In ministering the Gospel, let faith flow from you to your listeners. Inspire hope in their hearts, and most of all, let them experience the love of Jesus, and know in their hearts that He loves them unconditionally. Hallelujah! </p>
 
-                               <p>CONFESSION</p>
-                      <p>I am an able, competent, and effective minister of the Gospel of Christ, manifesting the virtues of faith, hope, and love. I am spreading the Gospel with passion, fervour and dedication; The love of Christ is evident in my actions, headed in my words, seen in my character, and reflected in my conduct. I am bringing salvation to people everywhere, in Jesus’s Name. Amen</p>
 
-<p>FURTHER STUDY</p>
-<p> || Hebrews 11: 6; || </p>
-<p> || Romans 5: 2-5; || </p>
-<p>
-DAILY SCRIPTURE READING</p>
-<p>
-1-Year Bible Reading Plan: John 3:11-24, Ezekiel 47-48</p>
-<p>
-2-Year Bible Reading Plan: Revelation 6:1-10, Joel 2</p>
-                               </div                        </div>
+                               </div >                       </div>
                    </div>
                </div>
             </div>
