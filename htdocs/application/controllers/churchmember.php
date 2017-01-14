@@ -937,7 +937,6 @@ function cell_system(){
 	
 	global $page_res;
 	sessiondata::general_page_resource();
-	
 	$this->load->model('meetingmanager');
 	
 	/////////////////////////////////////
@@ -2066,8 +2065,6 @@ function videos(){
 	$data['videos'] = useraccount::loadDetails($tblname="tbl_videos",$arrFilter=array('approved'=>1),$arrAttribute=array('id','video_code','church_id', 'video_title','video_desc' , 'video_url', 'video_thumbnail_url' , 'video_category', 'approved', 'time_posted'),$num=9, $orderBy=array('id'=>'DESC'));
 	
 	$this->load->view('service_highlights', $data);
-
-	var_dump($data);
 }
 
 function videos1(){

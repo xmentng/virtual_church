@@ -78,7 +78,7 @@
                 <div class="events">
                     <strong class="h3">Next Service</strong>
                     <div class="timer">
-                        <div class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s" id="getting-started"></div>
+                        
                     </div>
                 </div>
                 <div id="right_side">
@@ -111,36 +111,45 @@
 
                            </div>
                        </div>-->
-                  <div id="flip2"><a id="btn_2" style="background-image:none; border:none !important; text-align:justify !important; font-weight:bold; color:#FF0;" href="#" class="strock small-btn">Today's Rhapsody</a>
+                       <style type="text/css">
+                         .test{
+                          position: relative;
+                          top: 40px;
+                          left: -210px;
+
+                         }
+                       </style>
+                <div class="test">
+                  <img src="<?=base_url()."/asset";?>/images/ror.png" width="40" height="40" alt="image description" class="alignleft">
+                </div>
+                  <div id="flip2"><a id="btn_2" style="background-image:none; border:none !important; text-align:justify !important; font-weight:bold; color:#FF0;" href="#" class="strock small-btn">Today's Rhapsody...<i>click to read...</i></a>
                   <div id="panel2">
                   
-                    <strong> Think The Word-way </strong>
-                              <p>Tuesday, January 10th. Pastor Chris</p>
+                  <strong> Godliness Is About Your Conduct</strong>
+                               <p>Friday, January 13th. Pastor Chris</p>
+
+                               <p> But refuse profane and old wives’ fables, and exercise thyself rather unto godliness (1 Timothy 4:7).</p>
                               
-                              <p> And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God (Romans 12:2).
+                              <p> The word “godliness” above actually means piety towards God, piety to spiritual or godly activities. It means devotion. It doesn’t refer to inner righteousness or inherent holiness. It’s about the things you do, how you respond to God, and to the things of God. For instance, there’s a way you ought to behave when you come into the house of God, because church isn’t like everywhere else. It’s a place of worship. There’s an attitude of reverence you ought to have when you come to church.
+                              </p>    
+                              
+                              <p>Godliness is about your demeanour. Your dressing matters; some piety is necessary in your dressing. There’s a decency that goes with the Spirit of God, and that decency must be in your life. There’re outward things that people should see in you, and say, “Yes, this is a Christian.” They can’t see it in your heart, but can see it in your character. That’s what godliness is about.
                               </p>
                               
-                              <p> As a Christian, it’s important how you think and what you think about. You’re not of this world; therefore, you shouldn’t think like an ordinary person. Don’t say, “I’m American or I’m Australian, as a result, there’s a way I think.” No! When you’re born again, you cease to be of your earthly nativity, because your spirit is recreated. You should therefore only think the Word-way. God’s Word must form the basis for the kind of thoughts you process and allow.
-                              </p>
-                              
-                              <p> Now that you’re in Christ, you have a new culture: the Christ-culture. Until this becomes a reality in your spirit, you’ll live like an ordinary person and not experience the sublime blessings of the life in Christ. The Bible says, “Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new” (2 Corinthians 5:17). You’re of a new lineage and heritage. Refuse to be described by any earthly culture or affiliation.
-                              </p>
-                              
-                              <p> If you must be identified as a Zulu, Afrikaans, American, British, German, French, Nigerian, etc., let it be because you want to win those of such descent to Christ. That’s how the Apostle Paul puts it. He said, “And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law” (1 Corinthians 9:20). 
-                              </p>
-                              
-                              <p> Our opening verse, in the New Living Translation says, “Don’t copy the behavior and customs of this world, but let God transform you into a new person by changing the way you think….” As you meditate on the Word, your mind is programmed to think accordingly. You’ll begin to talk differently, and act in line with your confessions of faith. The Word of God is the only material that can energize you for success, position you for greatness, and sustain you in the transcendent life. 
+                              <p> There’re movies you shouldn’t watch. There’re books or magazines you shouldn’t read. There’re places you just shouldn’t be found in, because you’re different. And if for any reason you find yourself in such places, you ought to go in there with godly piety. Yes, that’s the life you’ve been called to live. Your presence in a place should exude and transmit the righteousness of God, for you’re a tree of righteousness, producing fruits of righteousness.
                               </p>
 
-                              <p> PRAYER</p> 
-                              <p> Dear Father, thank you for the education of my spirit, through your Word. As I study and meditate on the Word, my mind is renewed in knowledge and spiritual understanding. Therefore, through my knowledge of the Word, I allow only excellent things into my world, in Jesus’ Name. Amen.
-                              </p>
+                               <p> Never lose sight of who you are; you’re different.You’re the symbol and embodiment of God’s glory, perfection, beauty, and righteousness. See and carry yourself as such: “But you are a chosen race, a royal priesthood, a dedicated nation, [God’s] own purchased, special people, that you may set forth the wonderful deeds and display the virtues and perfections of Him Who called you out of darkness into His marvelous light” (1 Peter 2:9 AMP).
+                               </p>
 
-                              <p>FURTHER STUDY</p>
-                              <p> || Romans 12:2 AMP; || </p>
-                              <p> || Philippians 4:8; || </p>
+                               <p>PRAYER</p>
+                               <p> Dear Father, I thank you for giving me your righteousness as a gift, and inspiring in me the consciousness to walk in a perfect state of piety. I live true to my nature and calling in Christ as I bear fruits of righteousness and inspire many by my piety to spiritual and godly activities, in Jesus’ Name. Amen. </p>
 
-
+                               <p>FURTHER STUDY</p>
+                               <p> ||2 Peter 3:10-11; || </p>
+                               <p>|| Psalm 1:1-3; || </p>
+                               <p> ||Matthew 5:48; || </p>
+                               <p> || 2 Peter 1:5-7; || </p>
 
                                </div >                       </div>
                    </div>

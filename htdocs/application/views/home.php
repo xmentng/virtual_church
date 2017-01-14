@@ -103,13 +103,6 @@
 					<div class="clearfix"></div>
 				</div>
 			</div>
-			<script type="text/css">
-				#tap{
-				 position: relative;
-				 height: 100px;
-				}
-			</script>
-
 				<div class="row">
 					<section class="col-xs-12 col-sm-6">
 						<!-- banner -->

@@ -29,6 +29,10 @@
 
 	<!-- Favicons -->
 	<link rel="shortcut icon" href="http://d1z5hscmkopczy.cloudfront.net/asset/landing/img/favicon.png">
+
+	<script type="text/javascript">
+		$(document).on('click', 'a', false);
+	</script>
 </head>
 
 <body data-spy="scroll" data-offset="60" data-target=".navbar-fixed-top">
@@ -145,7 +149,7 @@
 							 data-elementdelay="0.01"
 							 data-endelementdelay="0.1"
 							 data-linktoslide="next"
-							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent'>Enter Site</a>
+							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' id="preventme">Enter Site</a>
 
 					</li> <!-- end slide 1 -->
 
@@ -210,7 +214,7 @@
 							 data-elementdelay="0.01"
 							 data-endelementdelay="0.1"
 							 data-linktoslide="next"
-							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent'>Enter Site</a>
+							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' id='preventme'>Enter Site</a>
 						</div>
 
 					</li> <!-- end slide 2 -->
