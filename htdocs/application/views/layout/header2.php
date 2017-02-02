@@ -77,9 +77,7 @@
             <div class="header-holder">
                 <div class="events">
                     <strong class="h3">Next Service</strong>
-                    <div class="timer">
-                        
-                    </div>
+                    
                 </div>
                 <div id="right_side">
                    <div class="togglers">
@@ -111,47 +109,46 @@
 
                            </div>
                        </div>-->
-                       <style type="text/css">
-                         .test{
-                          position: relative;
-                          top: 40px;
-                          left: -210px;
-
-                         }
-                       </style>
-                <div class="test">
-                  <img src="<?=base_url()."/asset";?>/images/ror.png" width="40" height="40" alt="image description" class="alignleft">
-                </div>
-                  <div id="flip2"><a id="btn_2" style="background-image:none; border:none !important; text-align:justify !important; font-weight:bold; color:#FF0;" href="#" class="strock small-btn">Today's Rhapsody...<i>click to read...</i></a>
-                  <div id="panel2">
-                  
-                  <strong> Godliness Is About Your Conduct</strong>
-                               <p>Friday, January 13th. Pastor Chris</p>
-
-                               <p> But refuse profane and old wives’ fables, and exercise thyself rather unto godliness (1 Timothy 4:7).</p>
+              <style type="text/css">
+                .ror{
+                  position: relative;
+                  top: -30px;
+                  right: 120px;
+                  }
+              </style>
+                       <div id="flip2"><a id="btn_2" style="background-image:none; border:none !important; text-align:justify !important; font-weight:bold; color:#FF0;" href="#" class="strock small-btn">Today's Rhapsody</a>
+                       <div class="ror">
+                       <p>To download ROR please click this link <a href="http://bit.ly/2kOUSNT"></a></p>
+                          <img src="http://d1z5hscmkopczy.cloudfront.net/asset/images/ror.png" alt="Church Online">
+                       </div>
+                           <div id="panel2">
+                              <strong> Your True Value</strong>
+                               <p>Wednesday, February 1st . Pastor Chris
+                               </p>
+                               
+                               <p> And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth (Luke 12:15). 
+                               </p>
                               
-                              <p> The word “godliness” above actually means piety towards God, piety to spiritual or godly activities. It means devotion. It doesn’t refer to inner righteousness or inherent holiness. It’s about the things you do, how you respond to God, and to the things of God. For instance, there’s a way you ought to behave when you come into the house of God, because church isn’t like everywhere else. It’s a place of worship. There’s an attitude of reverence you ought to have when you come to church.
-                              </p>    
-                              
-                              <p>Godliness is about your demeanour. Your dressing matters; some piety is necessary in your dressing. There’s a decency that goes with the Spirit of God, and that decency must be in your life. There’re outward things that people should see in you, and say, “Yes, this is a Christian.” They can’t see it in your heart, but can see it in your character. That’s what godliness is about.
-                              </p>
-                              
-                              <p> There’re movies you shouldn’t watch. There’re books or magazines you shouldn’t read. There’re places you just shouldn’t be found in, because you’re different. And if for any reason you find yourself in such places, you ought to go in there with godly piety. Yes, that’s the life you’ve been called to live. Your presence in a place should exude and transmit the righteousness of God, for you’re a tree of righteousness, producing fruits of righteousness.
-                              </p>
-
-                               <p> Never lose sight of who you are; you’re different.You’re the symbol and embodiment of God’s glory, perfection, beauty, and righteousness. See and carry yourself as such: “But you are a chosen race, a royal priesthood, a dedicated nation, [God’s] own purchased, special people, that you may set forth the wonderful deeds and display the virtues and perfections of Him Who called you out of darkness into His marvelous light” (1 Peter 2:9 AMP).
+                               <p> Some people rate or value themselves according to the amount of money they have. So, always, they’re punching the calculator to know their financial worth. If your value is according to some money, then you’re putting your life at some great risk. How can you subject your life to the uncertain and ever unstable monetary system of the world?
+                               </p>    
+                               
+                               <p> Your true value is the Word of God that’s in your spirit. You’ve got to know and have the Word in you. With the Word in you, your success is assured no matter what happens around you. You’ll stay afloat like the ark of Noah that rose higher and higher as it rained and the waters increased, so that the same water that drowned others, buoyed him up. This shows that the circumstances responsible for sinking people’s businesses and careers today will be for your promotion!
+                               </p>
+                               
+                               <p> What you need to live victoriously at every count in these latter days is the deposit of God’s Word in your spirit. If you deposit the Word in your spirit long enough, others will take notice of you and ask, “What manner of man is this?” because you’ll literally be “walking on water.” No matter the situation, you stay above only.
+                               </p>
+                               
+                               <p> Colossians 3:16 says, “Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.” Your confidence should only rest in how much of the Word of Christ you have in you, not how much money you have in your bank account. Remember, you become the Word of God that you receive into your spirit, and that’s your real value. As you allow the Word to dominate you, it’ll give you the mentality of a victor such that no matter what happens, you’ll remain strong and unfazed. 
+                               </p>
+                               
+                               <p> PRAYER</p> 
+                               <p> Dear Father, I thank you for showing me my true value in your Word. The entrance of your Word floods my heart with light and brings brilliance and beauty into my life. Your Word is deeply rooted in my heart and it grows, prevails and produces results in every area of my life, in Jesus’ Name. Amen. 
                                </p>
 
-                               <p>PRAYER</p>
-                               <p> Dear Father, I thank you for giving me your righteousness as a gift, and inspiring in me the consciousness to walk in a perfect state of piety. I live true to my nature and calling in Christ as I bear fruits of righteousness and inspire many by my piety to spiritual and godly activities, in Jesus’ Name. Amen. </p>
-
-                               <p>FURTHER STUDY</p>
-                               <p> ||2 Peter 3:10-11; || </p>
-                               <p>|| Psalm 1:1-3; || </p>
-                               <p> ||Matthew 5:48; || </p>
-                               <p> || 2 Peter 1:5-7; || </p>
-
-                               </div >                       </div>
+                              <p>FURTHER STUDY</p>
+                              <p> || 1 Timothy 6:17; || </p>
+                              <p>|| Joshua 1:8; || </p> 
+                </div>                       </div>
                    </div>
                </div>
             </div>

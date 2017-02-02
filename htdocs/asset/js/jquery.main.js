@@ -11,7 +11,7 @@ if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
 
 
 $( document ).ready(function() {
-	$('#getting-started').countdown('2015/12/25', function(event) {
+	$('#getting-started').countdown('2017/01/18', function(event) {
 	var $this = $(this).html(event.strftime(''
 		// + '<span>%m</span> Months, '
 		+ '<span>%d</span> Days, '

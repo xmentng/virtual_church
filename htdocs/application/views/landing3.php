@@ -29,9 +29,11 @@
 
 	<!-- Favicons -->
 	<link rel="shortcut icon" href="http://d1z5hscmkopczy.cloudfront.net/asset/landing/img/favicon.png">
-
 	<script type="text/javascript">
-		$(document).on('click', 'a', false);
+		function changepage(){
+			//alert('Hello Pablo');
+		window.location ='http://christembassychurchonline.org/home.php'
+		}
 	</script>
 </head>
 
@@ -149,7 +151,7 @@
 							 data-elementdelay="0.01"
 							 data-endelementdelay="0.1"
 							 data-linktoslide="next"
-							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' id="preventme">Enter Site</a>
+							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' onclick="changepage()">Enter Site</a>
 
 					</li> <!-- end slide 1 -->
 
@@ -214,7 +216,7 @@
 							 data-elementdelay="0.01"
 							 data-endelementdelay="0.1"
 							 data-linktoslide="next"
-							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' id='preventme'>Enter Site</a>
+							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' onclick="changepage()">Enter Site</a>
 						</div>
 
 					</li> <!-- end slide 2 -->
@@ -281,7 +283,7 @@
 							 data-elementdelay="0.01"
 							 data-endelementdelay="0.1"
 							 data-linktoslide="next"
-							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent'>Enter Site</a>
+							 style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='<?=base_url();?>' class='btn btn-lg btn-transparent' onclick="return false;">Enter Site</a>
 						</div>
 
 					</li> <!-- end slide 3 -->
@@ -296,21 +298,22 @@
 	<div class="time-container">
 		<div class="auto-due">
 			<?php
-			$next = date("Y-m-d H:i:s", strtotime("next wednesday 6:00 pm"));
-			if(date("D")=="Sun"&&(int)date("H")<14){
-				$next = date("Y-m-d H:i:s", strtotime("today 9:45 am"));
-			}
+				$next = date("Y/m/d H:i:s", strtotime("next wednesday 6:00 pm"));
+				if(date("D")=="Wed"&&(int)date("H")<14){
+			        $next = date("Y/m/d H:i:s", strtotime("today 6:00 pm"));
+                    }
+				
 			?>
 			<h3 style="color:white; text-align:center;">Next Service Program Starts In...</h3>
-				<div class="animate-start soon" id="counter" data-animations="fadeInDown" data-animation-duration="1s" data-animation-delay="1s"
-					 data-due="<?=$next;?>"
-					 data-event-complete="soonCompleteCallback"
-					 data-layout="group adjacent"
-					 data-scale-max="xl"
-					 data-format="d,h,m,s"
-					 data-face="slot slide glow"
-					 data-visual="ring cap-round glow-progress glow-background ring-width-custom align-center gap-2.5">
-				</div>
+			<div class="animate-start soon" id="counter" 	data-animations="fadeInDown" data-animation-duration="1s" data-animation-delay="1s"
+			data-due="<?=$next;?>"
+			data-event-complete="soonCompleteCallback"
+			data-layout="group adjacent"
+			data-scale-max="xl"
+			data-format="d,h,m,s"
+			data-face="slot slide glow"
+			data-visual="ring cap-round glow-progress glow-background ring-width-custom align-center gap-2.5">
+			</div>
 		</div>
 	</div>
 	<!-- end TIMER -->
@@ -332,7 +335,6 @@
 <script type="text/javascript" src="http://d1z5hscmkopczy.cloudfront.net/asset/landing/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 <script type="text/javascript" src="http://d1z5hscmkopczy.cloudfront.net/asset/landing/js/rev-slider.js"></script>
 <script type="text/javascript" src="http://d1z5hscmkopczy.cloudfront.net/asset/landing/js/scripts.js"></script>
-
 
 </body>
 </html>
